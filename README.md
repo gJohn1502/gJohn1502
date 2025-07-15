@@ -15,6 +15,9 @@ I'm a Computer Science Engineering graduate with a passion for solving real-worl
 
 🏆 **LeetCode Stats**:  
 I love solving coding challenges!  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/John1502?theme=dark&font=Baloo&ext=activity)
+
 👉 [Check out my LeetCode profile](https://leetcode.com/u/John1502)
 
 
