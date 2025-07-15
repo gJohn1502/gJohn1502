@@ -1,5 +1,5 @@
-Hi, I'm John G 👋
-
+**Hi, I'm John G 👋**
+<u></u>
 I'm a Computer Science Engineering graduate with a passion for solving real-world problems through code. I enjoy building dynamic web applications, mastering algorithms, and exploring the latest tech trends. I’m always excited to learn.
 
 🚀 **Technologies & Skills**:  
