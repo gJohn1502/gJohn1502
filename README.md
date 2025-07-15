@@ -33,6 +33,6 @@ I love solving coding challenges! Check out my progress on LeetCode:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/John1502?theme=dark&font=Baloo)
 
-👉 Check out my [LeetCode profile](https://leetcode.com/u/John1502)for more details.
+👉 Check out my [LeetCode profile](https://leetcode.com/u/John1502) for more details.
 
 
